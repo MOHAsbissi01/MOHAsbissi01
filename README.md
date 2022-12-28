@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasbissi01&label=Profile%20views&color=0e75b6&style=flat" alt="mohasbissi01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sbissimohamed1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sbissimohamed1?logo=twitter&style=for-the-badge" alt="https://twitter.com/sbissimohamed1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sbissimohamed1" target="blank"><img src="https://img.shields.io/twitter/follow/sbissimohamed1?logo=twitter&style=for-the-badge" alt="sbissimohamed1" /></a> </p>
 
 - 🌱 I’m currently learning **C ,Linux ,Unity and Blender**
 
