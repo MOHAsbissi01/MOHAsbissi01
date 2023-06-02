@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sbissimohamed1" target="blank"><img src="https://img.shields.io/twitter/follow/sbissimohamed1?logo=twitter&style=for-the-badge" alt="sbissimohamed1" /></a> </p>
 
-- 🌱 I’m currently learning **creating Games via C and SDL and working on Linux**
+- 🌱 I’m currently learning ** HTML , CSS , JavaScript  **
 
 - 📫 How to reach me **sbissi.mohamed@esprit.tn**
 
