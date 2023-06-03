@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sbissi</h1>
 <h3 align="center">A Computer Science Student</h3>
-<img align="right" alt="coding" width="315" src="your_image_link">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasbissi01&label=Profile%20views&color=0e75b6&style=flat" alt="mohasbissi01" /> </p>
 
