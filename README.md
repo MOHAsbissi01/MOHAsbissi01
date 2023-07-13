@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sbissimohamed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbissimohamed1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sbissi-mohamed-a8883725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbissi-mohamed-a8883725b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/med-sb-a8883725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbissi-mohamed-a8883725b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20864120/mohamed-sbissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20864120/mohamed-sbissi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mohamed.sbissi.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.sbissi.11" height="30" width="40" /></a>
 </p>
