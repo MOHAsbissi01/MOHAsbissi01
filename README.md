@@ -18,10 +18,7 @@
 <a href="https://www.linkedin.com/in/med-sb-a8883725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbissi-mohamed-a8883725b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20864120/mohamed-sbissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20864120/mohamed-sbissi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mohamed.sbissi.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.sbissi.11" height="30" width="40" /></a>
- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="URL_TO_QT_ICON" alt="QT" width="40" height="40"/></a>
-<a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="URL_TO_SDL_ICON" alt="SDL" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank rel="noreferrer"><img src="URL_TO_JAVASCRIPT_ICON" alt="JavaScript" width="40" height="40"/></a>
-
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +33,10 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  </a>
    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="URL_TO_QT_ICON" alt="QT" width="40" height="40"/></a>
+<a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="URL_TO_SDL_ICON" alt="SDL" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank rel="noreferrer"><img src="URL_TO_JAVASCRIPT_ICON" alt="JavaScript" width="40" height="40"/></a>
+
  </p>
 
 <br> 
