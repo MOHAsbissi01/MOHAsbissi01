@@ -48,21 +48,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
   </a>
-
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Terminal_(macOS)" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Terminal_icon_256px.png/256px-Terminal_icon_256px.png" alt="terminal" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere pro" width="40" height="40"/>
-  </a>
-   
-   
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premier pro" width="40" height="40"/>
-  </a>
+ 
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/>
   </a>
