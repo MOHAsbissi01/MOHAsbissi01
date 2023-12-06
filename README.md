@@ -34,11 +34,7 @@
    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://amiga.gr/sites/default/files/field/image/qt_bibliothek_logo.svg_.png" alt="QT" width="40" height="40"/></a>
    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="https://wiki.libsdl.org/static_files/logo.png" alt="SDL" width="40" height="40"/></a>
-
-<a href="https://www.oracle.com/legal/logos.html" target="_blank" rel="noreferrer"><img src="https://www.oracle.com/legal/logos.html" alt="Oracle Logo" width="40" height="40"/></a>
-<a href="https://www.flaticon.com/free-icons/sql" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icons/sql" alt="SQL Logo" width="40" height="40"/></a>
-  
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://freesvg.org/img/js_logo.png" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://freesvg.org/img/js_logo.png" alt="JavaScript" width="40" height="40"/></a>
 
  </p>
 <br> 
