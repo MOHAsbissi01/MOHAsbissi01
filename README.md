@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sbissi</h1>
+<h1 align="center">Hi 👋 , I'm Mohamed Sbissi</h1>
 <h3 align="center">A Computer Engineering Student</h3>
  
 
@@ -37,8 +37,6 @@
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://amiga.gr/sites/default/files/field/image/qt_bibliothek_logo.svg_.png" alt="QT" width="40" height="40"/></a>
    <a href="https://www.libsdl.org/" target="_blank" rel="noreferrer"><img src="https://wiki.libsdl.org/static_files/logo.png" alt="SDL" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://freesvg.org/img/js_logo.png" alt="JavaScript" width="40" height="40"/></a>
-
-
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -48,14 +46,8 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/>
   </a>
- 
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/>
   </a>
-
-
-
-
  </p>
 <br> 
 
