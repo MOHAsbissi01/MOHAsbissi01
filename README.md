@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/med-sb-a8883725b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbissi-mohamed-a8883725b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20864120/mohamed-sbissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20864120/mohamed-sbissi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mohamed.sbissi.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.sbissi.11" height="30" width="40" /></a>
-<a href="https://app.daily.dev/moha_sbissi" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dailydev.png" alt="https://app.daily.dev/moha_sbissi" height="30" width="40" /> </a>
+ 
 
 
 
