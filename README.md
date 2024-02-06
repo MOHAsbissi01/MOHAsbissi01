@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasbissi01&label=Profile%20views&color=0e75b6&style=flat" alt="mohasbissi01" /> </p>
 <p align="left"> <a href="https://twitter.com/sbissimohamed1" target="blank"><img src="https://img.shields.io/twitter/follow/sbissimohamed1?logo=twitter&style=for-the-badge" alt="sbissimohamed1" /></a> </p>
 
-- 🌱 Currently, I'm in the process of mastering HTML, CSS, JavaScript, and PHP
+- 🌱 Currently, I'm in the process of mastering HTML, CSS, JavaScript, PHP and MySQL 
 
 - 📫 How to reach me **sbissi.mohamed@esprit.tn**
 
