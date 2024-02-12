@@ -45,9 +45,17 @@
  </p>
 <br> 
 
+
  
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHAsbissi01&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="MOHAsbissi01" /></a>
 
+
+<a href="https://github.com/MOHAsbissi01/MOHAsbissi01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAsbissi01&repo=MOHAsbissi01&theme=buefy" />
+</a>
+<a href="https://github.com/MOHAsbissi01/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAsbissi01&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 <!-- 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohasbissi01&show_icons=true&locale=en" alt="mohasbissi01" /></p>
