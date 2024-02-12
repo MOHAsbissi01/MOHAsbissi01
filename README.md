@@ -45,6 +45,12 @@
  </p>
 <br> 
 
+
+<a href="https://github.com/MOHAsbissi01/MOHAsbissi01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAsbissi01&repo=MOHAsbissi01&theme=buefy" />
+</a>
+
+
 <a href="https://github.com/MOHAsbissi01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAsbissi01&repo=github-readme-stats&theme=buefy" />
 </a>
